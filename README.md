@@ -1,4 +1,4 @@
-# Shun Fai Lee Lab1
+# S.Lee Lab1
 # Prefix to Postfix Converter
 
 This python package is primarily designed as a converter for the conversion of string expression from prefix format to postfix format.
